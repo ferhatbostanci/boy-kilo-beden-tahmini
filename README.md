@@ -1,7 +1,7 @@
 
 # Boy ve Kiloya Göre En Yakın Beni Tahmin
 
-Makine Öğrenmesinin Temelleri (BLG 434) dersi final ödevi.
+Makine Öğrenmesinin Temelleri (BLG 434) dersi final ödevi (05/06/2021).
 
 Ekip Üyeleri:
 - Batuhan GÖKTAŞ [@BatuhanGoktaas](https://github.com/BatuhanGoktaas)
