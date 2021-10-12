@@ -47,8 +47,8 @@ bizlere sunuyor.
 ## Projeyi Çalıştırma
 
 ```bash
-> git clone https://link-to-project
-> cd my-project
+> git clone git@github.com:ferhatbostanci/boy-kilo-beden-tahmini.git
+> cd boy-kilo-beden-tahmini
 > npm install
 > npm run start
 ```
