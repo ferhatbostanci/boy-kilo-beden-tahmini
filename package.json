@@ -1,0 +1,16 @@
+{
+  "name": "ml-homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Boy ve kiloya göre beden ölçüsünü tahmin eden algoritma",
+  "author": "Batuhan GÖKTAŞ, Emine ÖZKAN, Ferhat BOSTANCI, Hasan DEMİRELLİ",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "csv-parser": "^3.0.0",
+    "is-number": "^7.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
