@@ -1,5 +1,5 @@
 
-# Boy ve Kiloya Göre En Yakın Beni Tahmin
+# Boy ve Kiloya Göre En Yakın Kilo Tahmin
 
 Makine Öğrenmesinin Temelleri (BLG 434) dersi final ödevi (05/06/2021).
 
